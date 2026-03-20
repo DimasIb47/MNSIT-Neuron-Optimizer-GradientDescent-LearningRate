@@ -1,0 +1,5 @@
+Eksperimen,Konfigurasi,Test Accuracy,Test Loss
+Neuron Terbaik,"D (512,256)",0.9811,0.1170
+Optimizer Terbaik,RMSprop,0.9834,0.1336
+GD Variant Terbaik,Adam + Mini-Batch (batch=32),0.9817,0.1200
+Learning Rate Terbaik,RMSprop + Mini-Batch + LR=0.001,0.9847,0.1157
